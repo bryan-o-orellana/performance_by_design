@@ -36,11 +36,11 @@ Enable the design team to:
 
 Users can filter by:
 
-- Base
-- Color
-- Size
+- Genre
+- Category
+- Lote
 - Client
-- And other relevant product attributes
+- Line
 
 This allows designers to analyze specific product segments easily.
 

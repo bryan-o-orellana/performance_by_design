@@ -27,7 +27,7 @@ Enable the design team to:
 
 ---
 ### 🔎Preview
-
+![Preview](imgs/preview.png)
 
 ---
 ## 🧩 Main Features
